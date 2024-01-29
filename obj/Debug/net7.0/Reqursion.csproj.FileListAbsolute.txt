@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\Homework Reqursion\Reqursion\bin\Debug\net7.0\Reqursion.exe
+C:\Users\user\Desktop\Homework Reqursion\Reqursion\bin\Debug\net7.0\Reqursion.deps.json
+C:\Users\user\Desktop\Homework Reqursion\Reqursion\bin\Debug\net7.0\Reqursion.runtimeconfig.json
+C:\Users\user\Desktop\Homework Reqursion\Reqursion\bin\Debug\net7.0\Reqursion.dll
+C:\Users\user\Desktop\Homework Reqursion\Reqursion\bin\Debug\net7.0\Reqursion.pdb
+C:\Users\user\Desktop\Homework Reqursion\Reqursion\obj\Debug\net7.0\Reqursion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Homework Reqursion\Reqursion\obj\Debug\net7.0\Reqursion.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Homework Reqursion\Reqursion\obj\Debug\net7.0\Reqursion.AssemblyInfo.cs
+C:\Users\user\Desktop\Homework Reqursion\Reqursion\obj\Debug\net7.0\Reqursion.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Homework Reqursion\Reqursion\obj\Debug\net7.0\Reqursion.dll
+C:\Users\user\Desktop\Homework Reqursion\Reqursion\obj\Debug\net7.0\refint\Reqursion.dll
+C:\Users\user\Desktop\Homework Reqursion\Reqursion\obj\Debug\net7.0\Reqursion.pdb
+C:\Users\user\Desktop\Homework Reqursion\Reqursion\obj\Debug\net7.0\Reqursion.genruntimeconfig.cache
+C:\Users\user\Desktop\Homework Reqursion\Reqursion\obj\Debug\net7.0\ref\Reqursion.dll
